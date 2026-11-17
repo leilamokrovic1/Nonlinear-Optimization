@@ -1,2 +1,2 @@
 # Nonlinear-Optimization
-Solutions to programming exercises for the mathematics Masters course in Nonlinear Optimization (Uni Wien)
+Solutions to programming exercises for the Mathematics Masters course in Nonlinear Optimization (University of Vienna, Winter Semester 2026).
